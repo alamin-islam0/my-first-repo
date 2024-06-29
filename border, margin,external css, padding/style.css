@@ -1,0 +1,18 @@
+.post{
+    background-color: aquamarine;
+    padding: 20px 25px 20px 25px;
+    margin: 25px 25px;
+    border: 2px solid rgba(255, 68, 0, 0.19);
+    border-radius: 20px;
+    width: 40%;
+}
+.post-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    line-height: 32px;
+    font-weight: 600;
+    color: rgb(44, 44, 44);
+}
+.container {
+    display: flex;
+}
